@@ -1,0 +1,35 @@
+
+/* Correspond au fond de la page */
+body {
+  background: black;
+   background-image: url("https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1639369103/algyquc6cfpl8n90onhy.jpg");
+   background-size: 2000px;
+}
+
+.w-100 {
+    width: 50%!important; /* la balise witdth  et height permet de dimenssioner en hauteur et largeur  */
+    height: 130;
+    margin-top: 160px;
+    height: 500px;
+    margin-left: 500px;
+}
+
+
+ody,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+
+/* correspond au titre jeux video  */
+.bgimg-1 {
+  background-image: url('');
+  min-height: 100%;
+}
+
+
+.bgimg-2 {
+  background-image: url("");
+  min-height: 400px;
+}
